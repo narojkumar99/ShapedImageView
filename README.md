@@ -98,4 +98,4 @@ public void setStrokeWidth(float strokeWidth);
 
 ## License
 
-MIT
+MITs
